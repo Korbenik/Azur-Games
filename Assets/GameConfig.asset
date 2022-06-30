@@ -28,8 +28,8 @@ MonoBehaviour:
   - Assets/Resources/Prefabs/Labyrinth_tutorial_gen_4.prefab
   - Assets/Resources/Prefabs/Labyrinth_tutorial_gen_5.prefab
   - Assets/Resources/Prefabs/Labyrinth_tutorial_gen_6.prefab
-  - Assets/Resources/Prefabs/Labyrinth_tutorial_gen_7.prefab
-  - Assets/Resources/Prefabs/Labyrinth_tutorial_gen_8.prefab
+  - Assets/Azur Games Test/Prefabs/Orange Prefab.prefab
+  - Assets/Azur Games Test/Prefabs/Orange Prefab.prefab
   - Assets/Resources/Prefabs/Fun/Labyrinth_fun_1.prefab
   - Assets/Resources/Prefabs/Labyrinth_tutorial_gen2_1.prefab
   - Assets/Resources/Prefabs/Labyrinth_tutorial_gen2_2.prefab
@@ -38,10 +38,10 @@ MonoBehaviour:
   - Assets/Resources/Prefabs/Labyrinth_tutorial_gen2_5.prefab
   - Assets/Resources/Prefabs/Labyrinth_tutorial_gen2_6.prefab
   - Assets/Resources/Prefabs/Labyrinth_tutorial_gen2_7.prefab
-  - Assets/Resources/Prefabs/Labyrinth_tutorial_gen2_8.prefab
+  - Assets/Azur Games Test/Prefabs/Orange Prefab.prefab
   - Assets/Resources/Prefabs/Fruits/Labyrinth_orange.prefab
   - Assets/Resources/Prefabs/Labyrinth_tutorial_bb_1.prefab
-  - Assets/Resources/Prefabs/Labyrinth_tutorial_bb_2.prefab
+  - Assets/Azur Games Test/Prefabs/Orange Prefab.prefab
   - Assets/Resources/Prefabs/Boss/Labyrinth_boss_2.prefab
   - Assets/Resources/Prefabs/Labyrinth_tutorial_8.prefab
   - Assets/Resources/Prefabs/Labyrinth_tutorial_9.prefab
@@ -145,7 +145,7 @@ MonoBehaviour:
   - Assets/Resources/Prefabs/Fun/Labyrinth_fun_5.prefab
   - Assets/Resources/Prefabs/Fun/Labyrinth_fun_6.prefab
   - Assets/Resources/Prefabs/Fun/Labyrinth_fun_7.prefab
-  ball: {fileID: 4803738439568453723, guid: ef7f45f562fed4940b8d891a8ea3dc88, type: 3}
+  ball: {fileID: -4372664460676925973, guid: d84e58c0bbcb2f04880a1ec621bf7481, type: 3}
   ballBig: {fileID: 4803738439568453723, guid: b7516d6d81dd31c44af5ec7ddbb50a19, type: 3}
   ballMid: {fileID: 4803738439568453723, guid: 6e1e1ab17a5d0ca49aabbbb775f4175e, type: 3}
   wavesCount: 3
